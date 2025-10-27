@@ -47,6 +47,7 @@ Use the edgeboard as the master and achieve specific tasks on the defined track
 - Multi-threaded framework design in Linux environment
 - V4L2 camera reading, AI inference deployment
 - Path generation and normalization, fuzzy PID algorithm deployment
+
 https://github.com/KeZhang19/KeZhang19.github.io/blob/master/images/4.mp4
 
 3rd gen i5 as main controller, Arduino for Ackermann chassis control​​
