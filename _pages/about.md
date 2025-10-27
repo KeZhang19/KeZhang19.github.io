@@ -12,7 +12,7 @@ redirect_from:
 
 A data-driven personal website
 ======
-Please refer to my [CV](https://pages.github.com/)
+Please refer to my [CV](https://github.com/KeZhang19/KeZhang19.github.io/blob/master/assets/%E7%AE%80%E5%8E%86.pdf)
 
 Getting started
 ======
