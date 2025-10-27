@@ -56,7 +56,6 @@ __Building quadruped robot models in Gazebo with ROS2 integration for simulation
 
 https://github.com/user-attachments/assets/65504261-412a-41de-8764-67f5d143c376
 
-Uploading 1.mp4…
 
 
 https://github.com/user-attachments/assets/f4dc66e1-9bd8-4450-9213-152fa8747dfb
