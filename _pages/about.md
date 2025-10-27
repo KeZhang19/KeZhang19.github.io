@@ -48,7 +48,11 @@ Use the edgeboard as the master and achieve specific tasks on the defined track
 - V4L2 camera reading, AI inference deployment
 - Path generation and normalization, fuzzy PID algorithm deployment
 
-https://github.com/KeZhang19/KeZhang19.github.io/blob/master/images/4.mp4
+
+
+https://github.com/user-attachments/assets/e1917b70-06c3-45cc-b708-5270d9aa4a0c
+
+
 
 3rd gen i5 as main controller, Arduino for Ackermann chassis control​​
 ------
