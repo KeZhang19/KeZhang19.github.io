@@ -11,11 +11,23 @@ redirect_from:
  
  Please refer to my [CV](https://github.com/KeZhang19/KeZhang19.github.io/blob/master/assets/%E7%AE%80%E5%8E%86.pdf)
 
+Publication​​
+======
+From Gaussian Processes to Ellipsoidal Obstacles: Safety Control Barrier Functions and Model Predictive Control
+------
+Senming Tan; Zhaoqi He; __Ke Zhang__; Zhenyu Hou; Zeya Wang; Miao Wang
+
+
+
+https://github.com/user-attachments/assets/c63da1c2-8296-4180-83b3-5c17dfdbe13e
+
+
+
 Project
 ======
 Quadruped Robot Navigation
 ------
-Implementing localization and navigation for quadruped robots in indoor environments​​
+__Implementing localization and navigation for quadruped robots in indoor environments__​​
 - Localization and mapping algorithm based on FastLIO
 - ICP global relocalization functionality
 - A* global planning with TEB local planning
@@ -23,14 +35,38 @@ Implementing localization and navigation for quadruped robots in indoor environm
 - Map beautification using image processing techniques
 - MPC trajectory tracking control
 
+
+
+https://github.com/user-attachments/assets/41e84e5d-64e5-4317-94f9-85ba1d4d2624
+
+
+https://github.com/user-attachments/assets/6a6d0f2f-b89c-450a-a73f-923f1ce4319a
+
+
+
+https://github.com/user-attachments/assets/65504261-412a-41de-8764-67f5d143c376
+
+
+
+
 Quadruped Robot Simulation Platform
 ------
-Building quadruped robot models in Gazebo with ROS2 integration for simulation testing​​
+__Building quadruped robot models in Gazebo with ROS2 integration for simulation testing​​__
 - Quadruped robot simulation setup
 - Testing various VLM model performances
 - Vilt model inference acceleration
 - ROS2 integration with multiple sensor inputs
 - Deployment of FastLIO, ICP, A*, FarPlanner, and Vilt algorithms in simulation
+
+
+
+Uploading 1.mp4…
+
+
+https://github.com/user-attachments/assets/f4dc66e1-9bd8-4450-9213-152fa8747dfb
+
+
+
 
 Self-Balancing Bicycle Project
 ------
@@ -39,9 +75,15 @@ Self-Balancing Bicycle Project
 - FOC algorithm for motor control
 - Accept GPS signals for path planning and task execution
 
+
+
+https://github.com/user-attachments/assets/8d2ce197-3ebe-4091-8de0-11be86ab83a0
+
+
+
 Baidu EdgeBoard Smart Car
 ------
-Use the edgeboard as the master and achieve specific tasks on the defined track
+__Use the edgeboard as the master and achieve specific tasks on the defined track__
 - Algorithm development on Baidu EdgeBoard processor for path following and special element tasks
 - Serial communication with TC264 for vehicle motion control
 - Multi-threaded framework design in Linux environment
