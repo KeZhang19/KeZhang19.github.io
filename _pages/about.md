@@ -44,10 +44,6 @@ https://github.com/user-attachments/assets/6a6d0f2f-b89c-450a-a73f-923f1ce4319a
 
 
 
-https://github.com/user-attachments/assets/65504261-412a-41de-8764-67f5d143c376
-
-
-
 
 Quadruped Robot Simulation Platform
 ------
@@ -58,7 +54,7 @@ __Building quadruped robot models in Gazebo with ROS2 integration for simulation
 - ROS2 integration with multiple sensor inputs
 - Deployment of FastLIO, ICP, A*, FarPlanner, and Vilt algorithms in simulation
 
-
+https://github.com/user-attachments/assets/65504261-412a-41de-8764-67f5d143c376
 
 Uploading 1.mp4…
 
