@@ -43,15 +43,6 @@ __Building quadruped robot models in Gazebo with ROS2 integration for simulation
 - ROS2 integration with multiple sensor inputs
 - Deployment of FastLIO, ICP, A*, FarPlanner, and Vilt algorithms in simulation
 
-https://github.com/user-attachments/assets/65504261-412a-41de-8764-67f5d143c376
-
-
-
-https://github.com/user-attachments/assets/f4dc66e1-9bd8-4450-9213-152fa8747dfb
-
-
-
-
 Self-Balancing Bicycle Project
 ------
 __​Using RT1064 as main controller with brushless motor drive for path following and special tasks__
